@@ -1,1 +1,1 @@
-alert( 'testando')
+alert('testando')
